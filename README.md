@@ -5,16 +5,19 @@
 ## Information
 
 <details><summary><h3>How to use</h3></summary>
-
-There are 3 good methods to using these scripts:
-1. Importing one of the Bookmarklets.html files using [these instructions](https://github.com/05Konz/Blooket-Cheats/blob/main/tutorial/readme.md)
-2. Going to the [GitHub pages site](https://05konz.github.io/Blooket-Cheats), choosing a gamemode, then dragging a cheat to your bookmarks bar or clicking one to copy the script
-3. Copying a script and running it in the inspect element console
+1. Go to https://github.com/THEHACKERISFIRST/blooket-hacks-/blob/main/use%20this%20file%20to%20get%20hacks or "use this file to get hacks" and copy the code and keep it copied. 
+2. Go to your bookmarks bar at the top |If you do not have the bookmarks bar go to the drop-down below and find out how to fix it | Let's keep on with instructions right-click use 2 finger click the bookmarks bar and it will show "add page..." click on that then the 2nd bar down paste the code in that 2nd bar and click save. you can all so change the name on the top bar. my suggested name is "GUI" other then "blooket hacks or blooket cheats" so if you are at school people wont find out so easyly.
+3. open blooket.com and click on the GUI
 </details>
 
+<details><summary><h3>How to fix the saved sight bar</h3></summary>
+Show the bookmarks bar by pressing Ctrl+Shift+B in Windows or Command+Shift+B in macOS. 
+https://www.youtube.com/watch?v=tY15VL7RGyA&t=26s
+</details>
+  
 <details><summary><h3>What can I do if JavaScript is blocked?</h3></summary>
 
-We don't actually know what to do about this or how to fix it, sorry.
+We don't know what to do about this or how to fix it, sorry.
 </details>
 
 <details><summary><h3>(script) is not working?</h3></summary>
