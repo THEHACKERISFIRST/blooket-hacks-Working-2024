@@ -5,13 +5,15 @@
 ## Information
 
 <details><summary><h3>How to use</h3></summary>
+  The instruction video is coming out soon
 1. Go to https://github.com/THEHACKERISFIRST/blooket-hacks-/blob/main/use%20this%20file%20to%20get%20hacks or "use this file to get hacks" and copy the code and keep it copied. 
-2. Go to your bookmarks bar at the top |If you do not have the bookmarks bar go to the drop-down below and find out how to fix it | Let's keep on with instructions right-click use 2 finger click the bookmarks bar and it will show "add page..." click on that then the 2nd bar down paste the code in that 2nd bar and click save. you can all so change the name on the top bar. my suggested name is "GUI" other then "blooket hacks or blooket cheats" so if you are at school people wont find out so easyly.
+2. Go to your bookmarks bar at the top |If you do not have the bookmarks bar go to the drop-down below and find out how to fix it | Let's keep on with instructions right-click use 2 finger click the bookmarks bar and it will show "add page..." click on that then the 2nd bar down paste the code in that 2nd bar and click save. you can all change the name on the top bar. My suggested name is "GUI" other than "blooket hacks or blooket cheats" so if you are at school people won't find out so easily.
 3. open blooket.com and click on the GUI
 </details>
 
 <details><summary><h3>How to fix the saved sight bar</h3></summary>
-Show the bookmarks bar by pressing Ctrl+Shift+B in Windows or Command+Shift+B in macOS. 
+Show the bookmarks bar by pressing Ctrl+Shift+B in Windows or Command+Shift+B in macOS. To show the bookmarks bar in Google Chrome on a Chromebook, you can use the keyboard shortcut Shift + Ctrl + b.
+  or search "how to show bookmark bar" or watch the video below
 https://www.youtube.com/watch?v=tY15VL7RGyA&t=26s
 </details>
   
